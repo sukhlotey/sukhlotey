@@ -1,4 +1,4 @@
-<h1 align="center"><i>Hi👻, I'm Sukhpreet Singh</i></h1>
+<h1 align="center"><i>Hi👻, I'm Sukhpreet</i></h1>
 <img align="right" alt="coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hacker_behind_PC.svg/1200px-Hacker_behind_PC.svg.png"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhpreet007&label=Profile%20views&color=0e75b6&style=flat" alt="sukhlotey" /> </p>
