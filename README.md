@@ -1,5 +1,5 @@
 <h1 align="center"><i>Hi👻, I'm Sukhpreet</i></h1>
-<img align="right" alt="coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hacker_behind_PC.svg/1200px-Hacker_behind_PC.svg.png"
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/564x/07/5c/15/075c15e2b9272fb7ff59da660c57a8e3.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhpreet007&label=Profile%20views&color=0e75b6&style=flat" alt="sukhlotey" /> </p>
 
