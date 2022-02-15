@@ -1,5 +1,5 @@
 <h1 align="center"><i>Hi👻, I'm Sukhpreet Singh</i></h1>
-<img align="right" alt="coding" width="350" src="https://o.remove.bg/downloads/936a407a-640c-409c-9eff-065a2f7ef5fb/What_Exactly_Is_GitHub_Anyway____TechCrunch-removebg-preview.png"
+<img align="right" alt="coding" width="350" src="https://o.remove.bg/downloads/e8155f14-6225-4604-92b6-f39ca46015a9/Codercat_-_GitHub_Octodex-removebg-preview.png"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhpreet007&label=Profile%20views&color=0e75b6&style=flat" alt="sukhlotey" /> </p>
 
