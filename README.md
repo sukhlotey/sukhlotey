@@ -1,5 +1,5 @@
 <h1 align="center"><i>Hi👻, I'm Sukhpreet Singh</i></h1>
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/ea/65/81/ea65817822ca88348adf8a38363e7b82.gif"
+<img align="right" alt="coding" width="350" src="https://o.remove.bg/downloads/53a7af20-85dc-4e75-b545-c677defae3fb/729624ff31b96bf38a44b00ee87ec005-removebg-preview.png"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhpreet007&label=Profile%20views&color=0e75b6&style=flat" alt="sukhlotey" /> </p>
