@@ -1,4 +1,4 @@
-<h1 align="center"><i>Hi👻, I'm Sukhpreet Singh</i></h1>
+<h1 align="center">Hi👻, I'm Sukhpreet Singh</h1>
 <img align="right" alt="coding" width="350" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"
 
 
