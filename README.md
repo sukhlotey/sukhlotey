@@ -6,7 +6,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/luvseverussnape" target="blank"><img src="https://img.shields.io/twitter/follow/luvseverussnape?logo=twitter&style=for-the-badge" alt="luvseverussnape" /></a> </p>
-    🎓I'm a BSc.IT Student of Ludhiana College Of Engneering & Technology
+    🎓I'm a MCA Student of Guru nanak dev engineering college
 
 - 💬 Ask me about **Html,CSS,SASS,Bootstrap,JavaScript,React,Material UI,Git**
 
