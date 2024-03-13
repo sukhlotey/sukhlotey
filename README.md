@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sukhpreet</h1>
-<img align="right" alt="coding" width="350" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"
+<img align="right" alt="coding" width="350" src="https://sweezy-cursors.com/wp-content/uploads/cursor/harry-potter-severus-snape-amp-wand-animated/harry-potter-severus-snape-wand-animated-custom-cursor.gif"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhpreet007&label=Profile%20views&color=0e75b6&style=flat" alt="sukhlotey" /> </p>
