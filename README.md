@@ -12,8 +12,6 @@
 
 - 📫 How to reach me : **sukh.singhlotey@gmail.com**
 
-- ⚡ Fun fact:  **I think i'm Funny...**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/luvseverussnape" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luvseverussnape" height="30" width="40" /></a>
