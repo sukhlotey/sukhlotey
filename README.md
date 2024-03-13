@@ -7,7 +7,7 @@
 
     🎓I'm a MCA Student of Guru nanak dev engineering college
 
-- 💬 Ask me about **Html,CSS,SASS,Bootstrap,JavaScript,React,NodeJs,ExpressJs,MongoDb,Material UI,Git**
+- 💬 Ask me about **Html,CSS,SASS,Bootstrap,JavaScript,React,NodeJs,ExpressJs,<br> MongoDb,Material UI,Git**
 
 - 📫 How to reach me : **sukh.singhlotey@gmail.com**
 
