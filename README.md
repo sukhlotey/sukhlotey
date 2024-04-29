@@ -7,9 +7,7 @@
 
     🎓I'm a MCA Student of Guru nanak dev engineering college
 
-- 💬 Ask me about **Html,CSS,SASS,Bootstrap,JavaScript,React,NodeJs,ExpressJs,<br> MongoDb,Material UI,Git**
-
-- 📫 How to reach me : **sukh.singhlotey@gmail.com**
+- 📫 Email: **sukh.singhlotey@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,15 +16,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p>
+	<img src="https://skillicons.dev/icons?i=html,css,sass,styledcomponents,javascript,nodejs,expressjs,mongodb,bootstrap,tailwind,materialui,react,redux,vscode,postman,netlify,git,github,linux,latex&perline=11" />
+</p>
 <p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhlotey&show_icons=true&locale=en&layout=compact" alt="sukhlotey" /></p>
 
