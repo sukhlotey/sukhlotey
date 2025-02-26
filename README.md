@@ -4,10 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhpreet007&label=Profile%20views&color=0e75b6&style=flat" alt="sukhlotey" /> </p>
 
-
-    🎓I'm a MCA Student of Guru nanak dev engineering college
-
-- 📫 Email: **sukh.singhlotey@gmail.com**
+📫 Email: **sukh.singhlotey@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
