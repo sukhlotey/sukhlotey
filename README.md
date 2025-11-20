@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sukhpreet</h1>
-<img align="right" alt="coding" width="250" src="https://media0.giphy.com/media/w1eISjltCc3p8Yygcd/source.gif"/>
+<img align="right" alt="coding" width="200" src="https://media0.giphy.com/media/w1eISjltCc3p8Yygcd/source.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhpreet007&label=Profile%20views&color=0e75b6&style=flat" alt="sukhlotey" /> </p>
