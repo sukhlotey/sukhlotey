@@ -4,12 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhpreet007&label=Profile%20views&color=0e75b6&style=flat" alt="sukhlotey" /> </p>
 
-📫 Email: **sukh.singhlotey@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sukhpreetlotey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukhpreetlotey" height="30" width="40" /></a>
-</p>
+🎓 **Master's Graduate** from Guru Nanak Dev Engineering College <br>
+👨‍💻 **MERN Stack Developer** passionate about building responsive, user-focused web applications<br>
+🚀 **Open to collaboration** on open-source projects and innovative web solutions<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
